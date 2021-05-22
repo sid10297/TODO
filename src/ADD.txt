@@ -1,0 +1,6 @@
+1. Connect Firebase's Datebase
+2. Authentication with Google
+3. Deploy 
+4. Edit Todo Feature
+5. Convert Web App to Mobile App Like APK File
+6. 
